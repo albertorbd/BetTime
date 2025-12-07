@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace BetTime.Model;
+namespace BetTime.Models;
 
 public class LoginDTO
 {   
